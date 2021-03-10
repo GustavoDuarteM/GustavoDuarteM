@@ -1,6 +1,6 @@
 ### Olá, eu sou do Gustavo Duarte 😉🤙 
 
-###### Natual do Rio de Janeiro,cursando o ultimo ano da faculdade de Sistemas de Informação e sempre tentando equalizar minha wish list de livros e meu tempo livre.
+###### Natural do Rio de Janeiro,cursando o último ano da faculdade de Sistemas de Informação e sempre tentando equalizar minha wish list de livros e meu tempo livre.
   
   
 - 🚀 Atualmente estou trabalhando para transformar a organização financeia pessoal ✨ [FinancesApp](https://github.com/GustavoDuarteM/finances) ✨, pelo menos a minha.
