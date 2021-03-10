@@ -2,10 +2,9 @@
 
 ###### Natural do Rio de Janeiro,cursando o último ano da faculdade de Sistemas de Informação e sempre tentando equalizar minha wish list de livros e meu tempo livre.
   
-  
-- 🚀 Atualmente estou trabalhando para transformar a organização financeia pessoal ✨ [FinancesApp](https://github.com/GustavoDuarteM/finances) ✨, pelo menos a minha.
+- 🚀 Atualmente estou trabalhando para transformar a organização financeira pessoal ✨ FinancesApp ✨, pelo menos a minha.
 
-- 🌱 Hoje eu trabalho com Rails, alem disso estou estudando Vue.js. 
+- 🌱 Hoje eu trabalho com Rails, além disso estou estudando Vue.js.
 
 📫Entre em contato comigo!
 
