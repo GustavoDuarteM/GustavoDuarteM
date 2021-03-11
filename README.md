@@ -8,4 +8,5 @@
 
 📫Entre em contato comigo!
 
-[![Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FgustDuz)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Ftwitter.com%2F)
+- [Twitter](https://twitter.com/gustDuz)
+- [Linkdin](https://www.linkedin.com/in/gustavo-duarte-61593990/)
