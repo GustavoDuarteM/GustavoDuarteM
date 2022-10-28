@@ -4,4 +4,4 @@
 
 📫Entre em contato comigo!
 
-- [Linkdin](https://www.linkedin.com/in/gustavo-duarte-61593990/)
+- [Linkedin](https://www.linkedin.com/in/gustavo-duarte-61593990/)
